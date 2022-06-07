@@ -13,7 +13,7 @@ parent: 連結
 
 * GitHub / nmakel / [i3-gnome](https://github.com/nmakel/i3-gnome)
 * GitHub / i3-gnome / [i3-gnome](https://github.com/i3-gnome/i3-gnome)
-* GitHub / regolith-linux / [i3-gnome](https://github.com/regolith-linux/i3-gnome-flashback)
+* GitHub / regolith-linux / [i3-gnome-flashback](https://github.com/regolith-linux/i3-gnome-flashback)
 
 
 ## gnome-session-flashback
