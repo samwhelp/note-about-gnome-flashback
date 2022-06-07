@@ -8,7 +8,7 @@ has_children: true
 # 連結
 
 
-## gnome-flashback
+## GNOME Wiki
 
 * [GNOME Flashback](https://wiki.gnome.org/Projects/GnomeFlashback)
 * [Gnome Panel](https://wiki.gnome.org/Projects/GnomePanel)
