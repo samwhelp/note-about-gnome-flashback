@@ -1,9 +1,14 @@
 
 # gnome-session-flashback-awesomewm
 
-## Main
 
-* [gnome-session-flashback-awesomewm](asset/gnome-session-flashback-awesomewm)
+## File Path
+
+* [/usr/share/xsessions/gnome-flashback-awesomewm.desktop](pkg-root/usr/share/xsessions/gnome-flashback-awesomewm.desktop)
+* [/usr/libexec/gnome-flashback-awesomewm](pkg-root/usr/libexec/gnome-flashback-awesomewm)
+* [/usr/share/gnome-session/sessions/gnome-flashback-awesomewm.session](pkg-root/usr/share/gnome-session/sessions/gnome-flashback-awesomewm.session)
+* [/usr/share/applications/gnome-flashback-awesomewm-session.desktop](pkg-root/usr/share/applications/gnome-flashback-awesomewm-session.desktop)
+* [/usr/bin/gnome-flashback-awesomewm-session](pkg-root/usr/bin/gnome-flashback-awesomewm-session)
 
 
 ## Usage
@@ -32,15 +37,6 @@ make prepare
 ```
 
 
-### build
-
-run
-
-``` sh
-make build
-```
-
-
 ### install
 
 run
@@ -56,13 +52,4 @@ run
 
 ``` sh
 make remove
-```
-
-
-### clean
-
-run
-
-``` sh
-make clean
 ```

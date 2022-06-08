@@ -1,9 +1,14 @@
 
 # gnome-session-flashback-xfwm4
 
-## Main
 
-* [gnome-session-flashback-xfwm4](asset/gnome-session-flashback-xfwm4)
+## File Path
+
+* [/usr/share/xsessions/gnome-flashback-xfwm4.desktop](pkg-root/usr/share/xsessions/gnome-flashback-xfwm4.desktop)
+* [/usr/libexec/gnome-flashback-xfwm4](pkg-root/usr/libexec/gnome-flashback-xfwm4)
+* [/usr/share/gnome-session/sessions/gnome-flashback-xfwm4.session](pkg-root/usr/share/gnome-session/sessions/gnome-flashback-xfwm4.session)
+* [/usr/share/applications/gnome-flashback-xfwm4-session.desktop](pkg-root/usr/share/applications/gnome-flashback-xfwm4-session.desktop)
+* [/usr/bin/gnome-flashback-xfwm4-session](pkg-root/usr/bin/gnome-flashback-xfwm4-session)
 
 
 ## Usage
@@ -32,15 +37,6 @@ make prepare
 ```
 
 
-### build
-
-run
-
-``` sh
-make build
-```
-
-
 ### install
 
 run
@@ -56,13 +52,4 @@ run
 
 ``` sh
 make remove
-```
-
-
-### clean
-
-run
-
-``` sh
-make clean
 ```

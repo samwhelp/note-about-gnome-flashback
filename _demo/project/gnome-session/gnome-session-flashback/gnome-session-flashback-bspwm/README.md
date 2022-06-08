@@ -1,9 +1,14 @@
 
 # gnome-session-flashback-bspwm
 
-## Main
 
-* [gnome-session-flashback-bspwm](asset/gnome-session-flashback-bspwm)
+## File Path
+
+* [/usr/share/xsessions/gnome-flashback-bspwm.desktop](pkg-root/usr/share/xsessions/gnome-flashback-bspwm.desktop)
+* [/usr/libexec/gnome-flashback-bspwm](pkg-root/usr/libexec/gnome-flashback-bspwm)
+* [/usr/share/gnome-session/sessions/gnome-flashback-bspwm.session](pkg-root/usr/share/gnome-session/sessions/gnome-flashback-bspwm.session)
+* [/usr/share/applications/gnome-flashback-bspwm-session.desktop](pkg-root/usr/share/applications/gnome-flashback-bspwm-session.desktop)
+* [/usr/bin/gnome-flashback-bspwm-session](pkg-root/usr/bin/gnome-flashback-bspwm-session)
 
 
 ## Usage
@@ -32,15 +37,6 @@ make prepare
 ```
 
 
-### build
-
-run
-
-``` sh
-make build
-```
-
-
 ### install
 
 run
@@ -56,13 +52,4 @@ run
 
 ``` sh
 make remove
-```
-
-
-### clean
-
-run
-
-``` sh
-make clean
 ```

@@ -1,7 +1,16 @@
 #!/usr/bin/env bash
 
-sudo dpkg -r gnome-session-flashback-bspwm
+echo "sudo rm -f /usr/share/xsessions/gnome-flashback-bspwm.desktop"
+sudo rm -f /usr/share/xsessions/gnome-flashback-bspwm.desktop
 
-#sudo apt-get remove gnome-session-flashback-bspwm
+echo "sudo rm -f /usr/libexec/gnome-flashback-bspwm"
+sudo rm -f /usr/libexec/gnome-flashback-bspwm
 
-#sudo apt-get purge gnome-session-flashback-bspwm
+echo "sudo rm -f /usr/share/gnome-session/sessions/gnome-flashback-bspwm.session"
+sudo rm -f /usr/share/gnome-session/sessions/gnome-flashback-bspwm.session
+
+echo "sudo rm -f /usr/share/applications/gnome-flashback-bspwm-session.desktop"
+sudo rm -f /usr/share/applications/gnome-flashback-bspwm-session.desktop
+
+echo "sudo rm -f /usr/bin/gnome-flashback-bspwm-session"
+sudo rm -f /usr/bin/gnome-flashback-bspwm-session

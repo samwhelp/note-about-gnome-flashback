@@ -1,9 +1,14 @@
 
 # gnome-session-flashback-i3
 
-## Main
 
-* [gnome-session-flashback-i3](asset/gnome-session-flashback-i3)
+## File Path
+
+* [/usr/share/xsessions/gnome-flashback-i3.desktop](pkg-root/usr/share/xsessions/gnome-flashback-i3.desktop)
+* [/usr/libexec/gnome-flashback-i3](pkg-root/usr/libexec/gnome-flashback-i3)
+* [/usr/share/gnome-session/sessions/gnome-flashback-i3.session](pkg-root/usr/share/gnome-session/sessions/gnome-flashback-i3.session)
+* [/usr/share/applications/gnome-flashback-i3-session.desktop](pkg-root/usr/share/applications/gnome-flashback-i3-session.desktop)
+* [/usr/bin/gnome-flashback-i3-session](pkg-root/usr/bin/gnome-flashback-i3-session)
 
 
 ## Usage
@@ -32,15 +37,6 @@ make prepare
 ```
 
 
-### build
-
-run
-
-``` sh
-make build
-```
-
-
 ### install
 
 run
@@ -56,13 +52,4 @@ run
 
 ``` sh
 make remove
-```
-
-
-### clean
-
-run
-
-``` sh
-make clean
 ```

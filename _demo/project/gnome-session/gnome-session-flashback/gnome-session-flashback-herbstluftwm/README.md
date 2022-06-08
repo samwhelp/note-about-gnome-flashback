@@ -1,9 +1,14 @@
 
 # gnome-session-flashback-herbstluftwm
 
-## Main
 
-* [gnome-session-flashback-herbstluftwm](asset/gnome-session-flashback-herbstluftwm)
+## File Path
+
+* [/usr/share/xsessions/gnome-flashback-herbstluftwm.desktop](pkg-root/usr/share/xsessions/gnome-flashback-herbstluftwm.desktop)
+* [/usr/libexec/gnome-flashback-herbstluftwm](pkg-root/usr/libexec/gnome-flashback-herbstluftwm)
+* [/usr/share/gnome-session/sessions/gnome-flashback-herbstluftwm.session](pkg-root/usr/share/gnome-session/sessions/gnome-flashback-herbstluftwm.session)
+* [/usr/share/applications/gnome-flashback-herbstluftwm-session.desktop](pkg-root/usr/share/applications/gnome-flashback-herbstluftwm-session.desktop)
+* [/usr/bin/gnome-flashback-herbstluftwm-session](pkg-root/usr/bin/gnome-flashback-herbstluftwm-session)
 
 
 ## Usage
@@ -32,15 +37,6 @@ make prepare
 ```
 
 
-### build
-
-run
-
-``` sh
-make build
-```
-
-
 ### install
 
 run
@@ -56,13 +52,4 @@ run
 
 ``` sh
 make remove
-```
-
-
-### clean
-
-run
-
-``` sh
-make clean
 ```

@@ -1,7 +1,16 @@
 #!/usr/bin/env bash
 
-sudo dpkg -r gnome-session-flashback-cwm
+echo "sudo rm -f /usr/share/xsessions/gnome-flashback-cwm.desktop"
+sudo rm -f /usr/share/xsessions/gnome-flashback-cwm.desktop
 
-#sudo apt-get remove gnome-session-flashback-cwm
+echo "sudo rm -f /usr/libexec/gnome-flashback-cwm"
+sudo rm -f /usr/libexec/gnome-flashback-cwm
 
-#sudo apt-get purge gnome-session-flashback-cwm
+echo "sudo rm -f /usr/share/gnome-session/sessions/gnome-flashback-cwm.session"
+sudo rm -f /usr/share/gnome-session/sessions/gnome-flashback-cwm.session
+
+echo "sudo rm -f /usr/share/applications/gnome-flashback-cwm-session.desktop"
+sudo rm -f /usr/share/applications/gnome-flashback-cwm-session.desktop
+
+echo "sudo rm -f /usr/bin/gnome-flashback-cwm-session"
+sudo rm -f /usr/bin/gnome-flashback-cwm-session

@@ -1,9 +1,14 @@
 
 # gnome-session-flashback-openbox
 
-## Main
 
-* [gnome-session-flashback-openbox](asset/gnome-session-flashback-openbox)
+## File Path
+
+* [/usr/share/xsessions/gnome-flashback-openbox.desktop](pkg-root/usr/share/xsessions/gnome-flashback-openbox.desktop)
+* [/usr/libexec/gnome-flashback-openbox](pkg-root/usr/libexec/gnome-flashback-openbox)
+* [/usr/share/gnome-session/sessions/gnome-flashback-openbox.session](pkg-root/usr/share/gnome-session/sessions/gnome-flashback-openbox.session)
+* [/usr/share/applications/gnome-flashback-openbox-session.desktop](pkg-root/usr/share/applications/gnome-flashback-openbox-session.desktop)
+* [/usr/bin/gnome-flashback-openbox-session](pkg-root/usr/bin/gnome-flashback-openbox-session)
 
 
 ## Usage
@@ -32,15 +37,6 @@ make prepare
 ```
 
 
-### build
-
-run
-
-``` sh
-make build
-```
-
-
 ### install
 
 run
@@ -56,13 +52,4 @@ run
 
 ``` sh
 make remove
-```
-
-
-### clean
-
-run
-
-``` sh
-make clean
 ```

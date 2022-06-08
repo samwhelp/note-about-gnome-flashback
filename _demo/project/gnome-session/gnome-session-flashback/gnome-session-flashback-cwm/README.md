@@ -1,9 +1,14 @@
 
 # gnome-session-flashback-cwm
 
-## Main
 
-* [gnome-session-flashback-cwm](asset/gnome-session-flashback-cwm)
+## File Path
+
+* [/usr/share/xsessions/gnome-flashback-cwm.desktop](pkg-root/usr/share/xsessions/gnome-flashback-cwm.desktop)
+* [/usr/libexec/gnome-flashback-cwm](pkg-root/usr/libexec/gnome-flashback-cwm)
+* [/usr/share/gnome-session/sessions/gnome-flashback-cwm.session](pkg-root/usr/share/gnome-session/sessions/gnome-flashback-cwm.session)
+* [/usr/share/applications/gnome-flashback-cwm-session.desktop](pkg-root/usr/share/applications/gnome-flashback-cwm-session.desktop)
+* [/usr/bin/gnome-flashback-cwm-session](pkg-root/usr/bin/gnome-flashback-cwm-session)
 
 
 ## Usage
@@ -32,15 +37,6 @@ make prepare
 ```
 
 
-### build
-
-run
-
-``` sh
-make build
-```
-
-
 ### install
 
 run
@@ -56,13 +52,4 @@ run
 
 ``` sh
 make remove
-```
-
-
-### clean
-
-run
-
-``` sh
-make clean
 ```
