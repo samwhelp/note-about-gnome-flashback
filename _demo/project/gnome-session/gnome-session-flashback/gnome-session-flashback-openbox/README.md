@@ -1,5 +1,5 @@
 
-# gnome-session-flashback-openbox
+# Project / gnome-session-flashback-openbox
 
 
 ## File Path
@@ -53,3 +53,8 @@ run
 ``` sh
 make remove
 ```
+
+
+## Packaging
+
+* [Debian](https://github.com/samwhelp/note-about-ubuntu/tree/gh-pages/_demo/packaging/gnome-session/gnome-session-flashback/gnome-session-flashback-openbox)
