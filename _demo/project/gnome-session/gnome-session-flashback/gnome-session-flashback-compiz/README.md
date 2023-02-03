@@ -57,5 +57,4 @@ make remove
 
 ## Packaging
 
-* [Debian](https://github.com/samwhelp/note-about-ubuntu/tree/gh-pages/_demo/packaging/gnome-session/gnome-session-flashback/gnome-session-flashback-compiz)
 * [Arch](https://github.com/samwhelp/ezarcher-adjustment/tree/main/project/ezarcher-adjustment-system/ezarcher-adjustment-packaging/pack/alternative/de/gnome-flashback/gnome-flashback-compiz/ezarcher-adjustment-modeling-gnome-flashback-compiz-session-main)
