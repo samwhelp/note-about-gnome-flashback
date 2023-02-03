@@ -1,6 +1,6 @@
 [Desktop Entry]
-Name=GNOME Flashback (Bspwm)
-Comment=This session logs you into GNOME Flashback with Bspwm
+Name=GNOME Flashback (Compiz)
+Comment=This session logs you into GNOME Flashback with Compiz
 Exec=/usr/libexec/gnome-flashback-compiz
 TryExec=compiz
 Type=Application
