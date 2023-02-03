@@ -58,3 +58,4 @@ make remove
 ## Packaging
 
 * [Debian](https://github.com/samwhelp/note-about-ubuntu/tree/gh-pages/_demo/packaging/gnome-session/gnome-session-flashback/gnome-session-flashback-openbox)
+* [Arch](https://github.com/samwhelp/ezarcher-adjustment/tree/main/project/ezarcher-adjustment-system/ezarcher-adjustment-packaging/pack/alternative/de/gnome-flashback/gnome-flashback-openbox/ezarcher-adjustment-modeling-gnome-flashback-openbox-session-main)
