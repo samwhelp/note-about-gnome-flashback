@@ -1,23 +1,34 @@
 
+
 # 首頁
 
-* [note-about-gnome-flashback](https://samwhelp.github.io/note-about-gnome-flashback/) ([GitHub](https://github.com/samwhelp/note-about-gnome-flashback))
+| Link | GitHub |
+| ---- | ------ |
+| [Gnome Flashback Adjustment](https://samwhelp.github.io/gnome-flashback-adjustment/) | [GitHub](https://github.com/samwhelp/gnome-flashback-adjustment) |
+| [Gnome Flashback 探索筆記](https://samwhelp.github.io/note-about-gnome-flashback/) | [GitHub](https://github.com/samwhelp/note-about-gnome-flashback) |
 
 
 ## 主題
 
+* [按鍵綁定](#按鍵綁定)
 * [相關筆記](#相關筆記)
+
+
+
+
+## 按鍵綁定
+
+| 按鍵綁定 |
+| --- |
+| [鍵盤](https://samwhelp.github.io/note-about-gnome-flashback/read/config/keybind.html) |
+| [滑鼠](https://samwhelp.github.io/note-about-gnome-flashback/read/config/mousebind.html) |
 
 
 ## 相關筆記
 
-
-## samwhelp
-
-* [個人筆記](https://samwhelp.github.io/book/)
-* [ubuntu 探索筆記](https://samwhelp.github.io/note-about-ubuntu/)
-* [manjaro 探索筆記](https://samwhelp.github.io/note-about-manjaro/)
-* [archcraft 探索筆記](https://samwhelp.github.io/note-about-archcraft/) / [archcraft-adjustment-package](https://github.com/samwhelp/archcraft-adjustment-package)
+| Link | GitHub |
+| ---- | ------ |
+| [Debian 探索筆記](https://samwhelp.github.io/note-about-debian/) | [GitHub](https://github.com/samwhelp/note-about-debian) |
 
 
 ## 相關討論
