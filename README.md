@@ -24,11 +24,16 @@
 | [滑鼠](https://samwhelp.github.io/note-about-gnome-flashback/read/config/mousebind.html) |
 
 
+
+
 ## 相關筆記
 
 | Link | GitHub |
 | ---- | ------ |
 | [Debian 探索筆記](https://samwhelp.github.io/note-about-debian/) | [GitHub](https://github.com/samwhelp/note-about-debian) |
+| [Ubuntu 探索筆記](https://samwhelp.github.io/note-about-ubuntu/) | [GitHub](https://github.com/samwhelp/note-about-ubuntu) |
+| [Gnome Shell 探索筆記](https://samwhelp.github.io/note-about-gnome-shell/) | [GitHub](https://github.com/samwhelp/note-about-gnome-shell) |
+| [Budgie Desktop 探索筆記](https://samwhelp.github.io/note-about-budgie/) | [GitHub](https://github.com/samwhelp/note-about-budgie) |
 
 
 ## 相關討論
